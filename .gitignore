@@ -1,0 +1,7 @@
+data/*
+notebooks/*
+src/.idea
+src/__pycache__/
+src/mention_classification/__pycache__/
+src/mention_detection/*
+src/ideas.txt
